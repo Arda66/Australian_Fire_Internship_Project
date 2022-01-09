@@ -7,6 +7,8 @@ from tensorflow.keras.layers.experimental import preprocessing
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import LabelEncoder
 
+# MADE BY ARDA DUMANOGLU 
+
 # making numpy values easy to read
 
 np.set_printoptions(precision=3, suppress=True)

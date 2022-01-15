@@ -7,7 +7,8 @@ from tensorflow.keras.layers.experimental import preprocessing
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import LabelEncoder
 
-# MADE BY ARDA DUMANOGLU 
+# Licensed and Made BY ARDA DUMANOGLU 
+## All rights reserved.
 
 # making numpy values easy to read
 
